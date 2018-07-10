@@ -7,12 +7,9 @@ def letter
 puts "what is your name?"
 guest = gets.strip
 
-puts "what is the name your event?"
-party = gets.strip
-
 
  puts "Dear #{guest},
-You are cordially invited to the #{party} on October 31 at 6pm. Please RSVP no later than October 30.
+You are cordially invited to the halloween party on October 31 at 6pm. Please RSVP no later than October 30.
 
 Sincerely,
  Harry Potter"
