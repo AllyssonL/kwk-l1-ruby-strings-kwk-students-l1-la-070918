@@ -3,6 +3,7 @@
 # Try starting out with puts'ing a string.
 
 def letter
+  
 puts "what is your name?"
 guest = gets.strip
 
@@ -15,5 +16,3 @@ Sincerely,
 end
 
  letter 
- letter 
- letter
