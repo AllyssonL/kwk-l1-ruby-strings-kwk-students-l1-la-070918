@@ -21,12 +21,3 @@ Sincerely,
 
 Harry Potter
 ```
-
-
-
-
-
-
-
-
-
