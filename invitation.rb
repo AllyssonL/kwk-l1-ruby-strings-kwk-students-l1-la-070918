@@ -14,5 +14,5 @@ Harry Potter
 end
 
 gets letter 
-letter 
-letter
+gets letter 
+gets letter
